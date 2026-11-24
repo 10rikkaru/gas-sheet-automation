@@ -1,0 +1,9 @@
+{
+  "name": "gas-sheet-automation",
+  "private": true,
+  "description": "受注シートのチェックと月次集計を自動化する Google Apps Script のサンプル",
+  "scripts": {
+    "test": "node --test test/",
+    "demo": "node scripts/demo.js"
+  }
+}
